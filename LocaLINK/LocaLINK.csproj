@@ -382,6 +382,7 @@
     <Content Include="assets\login\bootstrap-reboot.min.css.map" />
     <Content Include="assets\login\bootstrap.css.map" />
     <Content Include="assets\login\bootstrap.min.css.map" />
+    <Content Include="Views\Shared\_LayoutUser.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
